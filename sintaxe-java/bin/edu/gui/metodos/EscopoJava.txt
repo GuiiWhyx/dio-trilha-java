@@ -1,0 +1,6 @@
+// O escopo se refere a onde uma variável pode ser visualizada ou acessada no código.
+// Uma variável se torna inacessível caso o interpretador saia do bloco de execução ao qual ela pertence
+// portanto, essa variável não poderá ser lida, ou manipulada por rotinas e códigos que estão fora
+// do seu bloco de declaração, ou seja, fora do escopo da variável.
+// Exemplo:  Dentro de códigos if, for ou while.
+// Caso a variável seja declarada dentro de um método, ela estará disponível apenas dentro dele, nas {}

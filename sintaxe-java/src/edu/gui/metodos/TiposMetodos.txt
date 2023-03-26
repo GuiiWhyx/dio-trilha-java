@@ -1,0 +1,43 @@
+        // A clase é definida por atributos e métodos. Atributos em sua maioria
+        // são variáveis de diferentes tipos e valores.
+        // Os métodos, por sua vez, correspondem a funções ou sub-rotinas disponíveis
+        // dentro das nossas classes
+        //
+        //
+        // 1- Devem ser nomeados como verbo
+        // 2- Seguir o padrão camelCase (todas as letras em minúsculo com exceção da segunda palavra)
+        //
+        //
+        // Exemplo
+        // abriConexao, concluirProcessamento, findById
+        // calcularImprimir // "há algo errado, pois não da para saber qual a sua função"
+        //
+        //
+        // Em Java nenhum método é global, todos os métodos devem ser definidos dentro de uma classe.
+        // Críterio para definição de métodos
+        // 1- Qual a proposta principal? Deve saber qual a real finalidade do mesmo.
+        // 2- Qual tipo de retorno esperado após executar o método? Você deve analisar se o método irá
+        // retornar algum valor ou não.
+        //
+        //
+        // Caso o método não retorne nenhum valor ele será representado pela palavra-chave "void"
+        // 1- Quais o parâmetros serão necessários para execução do método? Para realizar uma soma, é preciso dois valores
+        // 2- O método possui o risco de apresentar alguma exceção? Alertar ou disparar uma exceção
+        // 3- Qual visibilidade do método? O método pode estar visível a toda aplicação, somente em mesmos pacotes,
+        // através de heranças ou a nível da própria classe
+        //
+        //
+        //public double somar (int num1, int num2) {
+        //      Lógica - finalidade do método
+        //    return ...;
+        //}
+        //public void gravarCliente (String nome, String cpf, Integer idade) {
+        // este método tem a finalidade de gravar
+        // informações de um cliente, por que não criar
+        // um objeto cliente e passar como parâmetro?
+        //
+        //public void gravarCliente (Cliente cliente) {}
+        // ou
+        //public void gravar (Cliente cliente) {}
+    }
+}
