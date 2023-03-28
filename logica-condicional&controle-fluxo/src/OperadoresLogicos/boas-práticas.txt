@@ -1,0 +1,9 @@
+Crie variáveis auxiliares para guardar resultados intermediários.
+
+(salarioMensal < mediaSalario) && (quantidadeDependentes >= mediaDependentes);
+
+Pode ser:
+
+(salarioBaixo) && (muitosDependentes)
+
+boolean recebeAuxilio = (salarioBaixo) && (muitosDependentes);

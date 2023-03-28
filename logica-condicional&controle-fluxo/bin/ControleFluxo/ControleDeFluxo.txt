@@ -1,0 +1,59 @@
+Objetivos
+
+1- Entender o que são estruturas
+2- Saber como usar cada uma
+
+Estruturas de controle de fluxo são estruturas que tem a capacidade de direcionar o fluxo de execução do código
+
+Tipos:
+Decisão:  if, if-else, if-else-if, switch e operador ternário
+Repetição: for, while, do while
+Interrupção: break, continue e return
+
+Decisão: estrutura que avalia uma condição booleana ou variável para direcionar o fluxo de execução
+Opções: if(se), switch(escolha), e operador ternário
+
+- Decisão: if, if-else, if-else-if
+if (condição) {
+}
+//
+if (condição) {
+} else {    
+}
+//
+if (condição) {
+} else if (condição) {
+} else {
+}
+
+Exemplo:
+
+if (idade > 18) {
+}
+//
+if (aprovado) {
+} else {    
+}
+//
+if (casado&&temFilhos) {
+} else if (casado&&semFilhos) {
+} else{
+}
+
+Operador ternário:
+
+condição ? true:false;
+ligado ? desligar:ligar;
+condição ? true:null;
+emMovimento ? freia:null;
+
+Decisão switch:
+
+Variável:       Switch (variável) {
+byte            case1:
+short           break;
+char            case...:
+int             break;
+Enum            default:
+String          break;
+                }
