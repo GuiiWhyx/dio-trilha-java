@@ -1,0 +1,91 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "atividade",
+            "request": "launch",
+            "mainClass": "br.edu.gui.exercicios.arrays.atividade",
+            "projectName": "estruturas-repeticao&arrays-java_d36776b"
+        },
+        {
+            "type": "java",
+            "name": "Ex4_ArrayMultidimensional",
+            "request": "launch",
+            "mainClass": "br.edu.gui.exercicios.arrays.Ex4_ArrayMultidimensional",
+            "projectName": "estruturas-repeticao&arrays-java_d36776b"
+        },
+        {
+            "type": "java",
+            "name": "Ex3_NumerosAleatorios",
+            "request": "launch",
+            "mainClass": "br.edu.gui.exercicios.arrays.Ex3_NumerosAleatorios",
+            "projectName": "estruturas-repeticao&arrays-java_d36776b"
+        },
+        {
+            "type": "java",
+            "name": "Ex2_Consoantes",
+            "request": "launch",
+            "mainClass": "br.edu.gui.exercicios.arrays.Ex2_Consoantes",
+            "projectName": "estruturas-repeticao&arrays-java_d36776b"
+        },
+        {
+            "type": "java",
+            "name": "Ex1_OrdemInversa",
+            "request": "launch",
+            "mainClass": "br.edu.gui.exercicios.arrays.Ex1_OrdemInversa",
+            "projectName": "estruturas-repeticao&arrays-java_d36776b"
+        },
+        {
+            "type": "java",
+            "name": "Ex6_Fatorial",
+            "request": "launch",
+            "mainClass": "br.edu.gui.exercicios.loops.Ex6_Fatorial",
+            "projectName": "estruturas-repeticao&arrays-java_d36776b"
+        },
+        {
+            "type": "java",
+            "name": "Ex5_Tabuada",
+            "request": "launch",
+            "mainClass": "br.edu.gui.exercicios.loops.Ex5_Tabuada",
+            "projectName": "estruturas-repeticao&arrays-java_d36776b"
+        },
+        {
+            "type": "java",
+            "name": "Ex4_ParImpar",
+            "request": "launch",
+            "mainClass": "br.edu.gui.exercicios.loops.Ex4_ParImpar",
+            "projectName": "estruturas-repeticao&arrays-java_d36776b"
+        },
+        {
+            "type": "java",
+            "name": "Ex3_MaiorEMedia",
+            "request": "launch",
+            "mainClass": "br.edu.gui.exercicios.loops.Ex3_MaiorEMedia",
+            "projectName": "estruturas-repeticao&arrays-java_d36776b"
+        },
+        {
+            "type": "java",
+            "name": "Ex2_NotaJava",
+            "request": "launch",
+            "mainClass": "br.edu.gui.exercicios.loops.Ex2_NotaJava",
+            "projectName": "estruturas-repeticao&arrays-java_d36776b"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Ex1_NomeEIdade",
+            "request": "launch",
+            "mainClass": "br.edu.gui.exercicios.Ex1_NomeEIdade",
+            "projectName": "estruturas-repeticao&arrays-java_d36776b"
+        }
+    ]
+}
